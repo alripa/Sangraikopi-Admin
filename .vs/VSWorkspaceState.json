@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\Organisms",
+    "\\src\\Components\\Organisms\\AdminNav",
+    "\\src\\Pages",
+    "\\src\\Pages\\Dashboard",
+    "\\src\\Pages\\Login",
+    "\\src\\Pages\\Pages",
+    "\\src\\Pages\\Product"
+  ],
+  "SelectedNode": "\\src\\Components\\Organisms\\AdminNav\\index.js",
+  "PreviewInSolutionExplorer": false
+}

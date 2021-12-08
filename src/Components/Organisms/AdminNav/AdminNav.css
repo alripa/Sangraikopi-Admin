@@ -1,0 +1,27 @@
+.side-bar {
+  height: 100vh;
+  position: fixed;
+  left: 0;
+}
+.brand {
+  padding: 16px 24px;
+}
+
+.brand-logo {
+  width: 36px;
+  height: 36px;
+}
+
+.header-content {
+  height: 100%;
+}
+
+.user-admin {
+  height: 100%;
+  cursor: pointer;
+}
+
+.user-dropdown {
+  width: 160px;
+  margin-left: auto !important;
+}
